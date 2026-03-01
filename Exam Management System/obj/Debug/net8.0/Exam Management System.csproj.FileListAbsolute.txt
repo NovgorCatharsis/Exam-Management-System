@@ -1,0 +1,14 @@
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\bin\Debug\net8.0\Exam Management System.exe
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\bin\Debug\net8.0\Exam Management System.deps.json
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\bin\Debug\net8.0\Exam Management System.runtimeconfig.json
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\bin\Debug\net8.0\Exam Management System.dll
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\bin\Debug\net8.0\Exam Management System.pdb
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\Exam Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\Exam Management System.AssemblyInfoInputs.cache
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\Exam Management System.AssemblyInfo.cs
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\Exam Management System.csproj.CoreCompileInputs.cache
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\Exam Management System.dll
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\refint\Exam Management System.dll
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\Exam Management System.pdb
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\Exam Management System.genruntimeconfig.cache
+C:\Users\jegor\Desktop\Code Projects\C#\Exam Management System\obj\Debug\net8.0\ref\Exam Management System.dll
